@@ -1,0 +1,12 @@
+picamera2
+numpy
+gpiozero
+RPi.GPIO
+smbus
+smbus2
+# For the PCA9685 motor controller
+adafruit-circuitpython-pca9685
+adafruit-circuitpython-servokit
+# Network and general utilities
+netifaces
+pillow
